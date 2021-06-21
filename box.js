@@ -12,17 +12,9 @@ class Box
     {
       rect(this.x,this.y,this.w,this.h)
     }
-
-    set_speed(v)
-    {
-      this.x = this.x + v;
-    }
+    
+    //add the function to set the width of the box
 
   }
 
-
-
-  
-   
-    
   
